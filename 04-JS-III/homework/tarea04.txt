@@ -1,0 +1,1 @@
+Arrays : son listas de elementos, continen cualquier cantidad y tipo de elementos.
