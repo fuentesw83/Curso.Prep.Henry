@@ -1,0 +1,7 @@
+for : Es una estructura de control que evalua la condicion una y otra vez hasta completar el número maximo de interaciones.
+
+&&- Comparador logico que utilizamos para comparar si ambas condiciones se cumplen (y)
+
+||- Comparador logico que utilizamos para comparar si alguna de las condiciones se cumplen (o)
+
+!- Sirve para negar la condición (NOT)
