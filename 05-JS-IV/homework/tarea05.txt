@@ -1,0 +1,6 @@
+Objetos = Continen mucha información sobre una sola cosa
+Propiedades = par Clave-Valor que contienen los objetos
+Métodos = Son las funciones guardadas en un objeto
+Bucle for…in = Es la sintaxis que se utiliza en el bucle que recorre cada clave del objeto.
+Notación de puntos vs notación de corchetes = Es la forma en la que accedemos a los valores del objeto
+
