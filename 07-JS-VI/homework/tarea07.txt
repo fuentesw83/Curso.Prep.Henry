@@ -1,0 +1,1 @@
+Funciones Callback es la capacidad que tiene JavaScript de pasar funciones como argumentos de otras funciones.
