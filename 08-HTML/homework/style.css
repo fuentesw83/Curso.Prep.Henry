@@ -1,0 +1,34 @@
+
+
+body {
+    background-image: url("https://fondosmil.com/fondo/42740.jpg");
+}
+
+h1 {
+    color: lawngreen;
+}
+img {
+    width: 400px;
+}
+
+div{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#thirDiv {
+    height: 600px;
+    width: 500px;
+    background: rgb(143, 204, 228);
+    padding: 50px;
+    border: 10px solid slateblue;
+}
+#spanId{
+    font-size: 18px;
+    margin:  50px;
+}
+
+.divClass{
+    margin: 20px;
+    border: 4px outset rgb(139, 135, 134);
+}
