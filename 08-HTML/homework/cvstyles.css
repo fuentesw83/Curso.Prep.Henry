@@ -10,6 +10,7 @@
   div {
     border: 4px outset rgb(139, 135, 134);
     padding: 5px;
+    margin: 20px;
 }
 
 img {
